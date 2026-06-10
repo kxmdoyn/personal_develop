@@ -1,4 +1,0 @@
-mcp
-httpx
-beautifulsoup4
-python-dotenv
